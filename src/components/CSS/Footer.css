@@ -1,0 +1,25 @@
+.footer {
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: rgb(235, 195, 64);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    color: rgb(248, 248, 248);
+    width: 100%;  /* Height of the footer */
+    background:rgb(138, 138, 138);
+}
+
+.footerlab {
+    margin-top: 20px;
+    text-align: center;
+    font-family: Calibri;
+    font-weight: 100;
+    background: rgb(138, 138, 138);
+}
+
+.img_sal {
+    height: 50px;
+    width: 50px;
+    margin-bottom: 10px;
+}
